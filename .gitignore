@@ -1,0 +1,8 @@
+.env
+.DS_Store
+src/wp-content/uploads
+src/wp-content/themes/twentynineteen
+src/wp-content/themes/twentyseventeen
+src/wp-content/themes/twentysixteen
+src/wp-content/themes/golfview/node_modules
+src/wp-content/plugins/hello.php
